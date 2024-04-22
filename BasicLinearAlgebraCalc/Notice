@@ -1,0 +1,9 @@
+NOTICE: 
+This is a raw .c Data. You have to compile it with e.g.
+gcc -Wall linAlgCalc.c -o [newDataName].c
+To run this file:
+./[newDataName].c
+-----------
+Works: 
+MingGW gcc -> Cygwin64-Terminal
+Windows -> cmd
