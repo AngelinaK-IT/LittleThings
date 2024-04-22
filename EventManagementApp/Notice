@@ -1,0 +1,3 @@
+NOTICE: 
+This app is still in progress. Important encryption of passwords, deserialization and socket programming is missing. Also alternative storage in databases. 
+Therefore it is only for presentation purposes. 
